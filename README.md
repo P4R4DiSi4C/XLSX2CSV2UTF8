@@ -27,5 +27,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Thanks to people in Stackoverflow  
 MaterialSkin Team : https://github.com/IgnaceMaes/MaterialSkin  
-Costura.Fody Team : https://www.nuget.org/packages/Costura.Fody/
+Costura.Fody Team : https://www.nuget.org/packages/Costura.Fody/  
 Microsoft         : https://www.nuget.org/packages/Microsoft.Office.Interop.Excel/14.0.0.1
