@@ -1,0 +1,2 @@
+# XLSX2CSV2UTF8
+Convert .XLSX to .CSV(ANSI) to .TXT(UTF8)
