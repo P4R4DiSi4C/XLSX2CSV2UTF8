@@ -1,5 +1,7 @@
 # XLSX2CSV2UTF8 (EXERCICE DE CFC)
 
+![alt text](https://i.imgur.com/JabjwP6.png)
+
 ### Description
 Project made to convert .XSLX files to .CSV files with ";" as delimited and then convert the .CSV encoded in ANSI to a .txt file encode in UTF8 without delimiters.
 
